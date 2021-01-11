@@ -83,4 +83,4 @@ function buttonAnimation(currentKey) {
 var d = new Date();
 var n = d.getFullYear();
 
-document.getElementById("currentYear").innerText = "Copyright " + 2020 + " Dutu";
+document.getElementById("currentYear").innerText = "Copyright " + n + " Dutu";
